@@ -140,5 +140,5 @@ class HinhChuNhat {
 $hcn = new HinhChuNhat();
 $hcn->chieuDai = 4;
 $hcn->chieuRong = 3;
-echo "Diện tích hình chữ nhật là: " . $hcn->tinhDienTich();
+echo "Diện tích hình chữ nhật làaa: " . $hcn->tinhDienTich();
 ?>
